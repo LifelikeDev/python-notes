@@ -9,9 +9,15 @@ print(age)
 print(isRich)
 
 print()
-# Multiple Assignments
-nickName = guideName = otherName = "Dallor-O"
 
+# Multiple Assignments
+
+first, second = 24, 56
+print(first, second)
+
+print()
+
+nickName = guideName = otherName = "Dallor-O"
 print(nickName)
 print(guideName)
 print(otherName)
